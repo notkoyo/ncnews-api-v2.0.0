@@ -1,4 +1,4 @@
-# NC News API
+# NC News API v2.0.0
 
 The hosted version of the API can be accessed at [ncnews.xg62qbtz2n.workers.dev/api/v2](https://ncnews.xg62qbtz2n.workers.dev/api/v2)
 
