@@ -29,3 +29,7 @@ export type Topics = {
   slug: string;
   description: string;
 };
+
+export type Env = {
+  DATABASE_URL: string;
+}

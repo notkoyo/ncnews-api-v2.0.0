@@ -1,4 +1,4 @@
-import { deleteCommentByCommentId } from "../../model";
+import { deleteCommentByCommentId } from "../../../model";
 import { Hono } from "hono";
 
 const comments = new Hono().basePath("/comments");

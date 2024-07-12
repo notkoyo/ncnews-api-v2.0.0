@@ -1,4 +1,4 @@
-import { fetchTopics } from "../../model";
+import { fetchTopics } from "../../../model";
 import { Hono } from "hono";
 
 const topics = new Hono().basePath("/topics");

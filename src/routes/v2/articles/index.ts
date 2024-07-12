@@ -4,7 +4,7 @@ import {
   fetchCommentsByArticleId,
   postCommentByArticleId,
   updateArticleById,
-} from "../../model";
+} from "../../../model";
 import { Hono } from "hono";
 
 const articles = new Hono().basePath("/articles");
